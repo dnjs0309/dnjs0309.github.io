@@ -1,6 +1,6 @@
 ###mark down 으로 만든 자기소개서
----
 ##자기소개서
+---
 ![chowonjin](/images/miroslav_maksimovic.jpg)
 * 이름 : 조원진  
 * 주소 : 인천광역시 서구
