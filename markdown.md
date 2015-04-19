@@ -7,7 +7,7 @@
 * 학력 :제주대 경제학과
 * E-mail : dnjs0309@naver.com
 * 웹사이트 : [dnjs0309.github.io](http://dnjs0309.github.io)  
-![1](images/githubicon.jpg)
+[![1](images/githubicon.jpg)](http://dnjs0309.github.io)
 
 ---
 ##Summary
